@@ -1,1 +1,1 @@
-# POWERBI_DB
+Created a highly interactive POWER BI dashboard to showcase KPIs, category wise distribution of Ecommerce Sales to gain quick understanding and derive insights wrt Ecommerce sales happening across the globe.
